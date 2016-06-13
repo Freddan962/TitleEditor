@@ -1,0 +1,10 @@
+c:\users\freddan962\documents\visual studio 2015\Projects\TitleEditor\TitleEditor\bin\Debug\TitleEditor.exe.config
+c:\users\freddan962\documents\visual studio 2015\Projects\TitleEditor\TitleEditor\bin\Debug\TitleEditor.exe
+c:\users\freddan962\documents\visual studio 2015\Projects\TitleEditor\TitleEditor\bin\Debug\TitleEditor.pdb
+c:\users\freddan962\documents\visual studio 2015\Projects\TitleEditor\TitleEditor\obj\Debug\TitleEditor.csprojResolveAssemblyReference.cache
+c:\users\freddan962\documents\visual studio 2015\Projects\TitleEditor\TitleEditor\obj\Debug\TitleEditor.Properties.Resources.resources
+c:\users\freddan962\documents\visual studio 2015\Projects\TitleEditor\TitleEditor\obj\Debug\TitleEditor.csproj.GenerateResource.Cache
+c:\users\freddan962\documents\visual studio 2015\Projects\TitleEditor\TitleEditor\obj\Debug\TitleEditor.exe
+c:\users\freddan962\documents\visual studio 2015\Projects\TitleEditor\TitleEditor\obj\Debug\TitleEditor.pdb
+C:\Users\Freddan962\Documents\Visual Studio 2015\Projects\TitleEditor\TitleEditor\obj\Debug\TitleEditor.Application.resources
+C:\Users\Freddan962\Documents\Visual Studio 2015\Projects\TitleEditor\TitleEditor\obj\Debug\TitleEditor.TitleList.resources
